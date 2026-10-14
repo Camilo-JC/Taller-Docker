@@ -1,7 +1,7 @@
 # Gestor de tareas contenerizado
 ## Integrantes
-- [Camilo Caballero]
-- [Juan Esper]
+- Camilo Caballero
+- Juan Esper
 
 ## Servicios
 
